@@ -20,4 +20,4 @@ social: false # includes social icons at the bottom of the page
 
 Welcome! I am a recent graduate from McGill University in the Environment department with a specialization in Economics. I am interested in sustainable food systems, collective action initiatives and many other topics. Throughout my years in environmental studies I have been involved with the Green Party of Quebec and the town of Montreal West's Environment Action Committee, and was the co-president of Mealcare McGill. 
 
-Find out more about my academic research projects [here](/research/), and check out my [resume](/cv/) to learn about my work experience. 
+Find out more about my academic research projects [here](/research/), and check out my [CV](/assets/pdf/hailey_cv_2023.pdf/) to learn about my work experience. 
